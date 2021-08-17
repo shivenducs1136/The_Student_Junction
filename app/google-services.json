@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798908712893",
+    "project_id": "thestudentjuntion",
+    "storage_bucket": "thestudentjuntion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798908712893:android:83cda0717bad60b2b2f4d4",
+        "android_client_info": {
+          "package_name": "com.example.tsj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798908712893-cbup0k17f5dqnlurnhs3i6qak082mh9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tsj",
+            "certificate_hash": "e256d4309ca57e28520c38653e320d95ef90dc47"
+          }
+        },
+        {
+          "client_id": "798908712893-3efpffttevi9798eiblv4l1nhmt64qas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbzs8enSdVglhaMlDxfO6DC3tZvIdCNaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798908712893-3efpffttevi9798eiblv4l1nhmt64qas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
